@@ -2,6 +2,8 @@
 
 在大佬开源项目[vue-admin-box](https://github.com/cmdparkour/vue-admin-box)的基础上修改来的
 
+本项目的后端参考：[elm-ai-fielder-backend](https://github.com/ohownew/elm-ai-fielder-backend)
+
 ## 主要技术栈
 
 - MVVM框架：vue v3
